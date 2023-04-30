@@ -1,0 +1,20 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "To Log Events in the server",
+  "main": "expresserver.js",
+  "scripts": {
+    "start": "nodemon expressserver.js"
+  },
+  "author": "Davis",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  }
+}
