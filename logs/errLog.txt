@@ -1,2 +1,8 @@
 04-05-2023 	 10:57:10 	 7bcf96b7-51b4-4a45-b274-753ade4f26df 	 Error Not allowed by CORS 
 04-05-2023 	 10:57:11 	 d9dd1290-e7ab-4f8e-b7c5-6a258ed05844 	 Error Not allowed by CORS 
+04-30-2023 	 10:36:55 	 a680ef5d-4bd8-4186-87df-7c302621f10f 	 SyntaxError Unexpected token f in JSON at position 4 
+04-30-2023 	 10:42:59 	 f658a771-c5dd-4280-8799-c752252359e0 	 SyntaxError Unexpected token f in JSON at position 4 
+05-01-2023 	 12:20:36 	 ac5fda98-90ed-445c-a1ca-6aa9b1880feb 	 SyntaxError Unexpected token = in JSON at position 12 
+05-01-2023 	 12:21:18 	 2de81d21-0e3f-4875-8d18-1a43de864335 	 SyntaxError Unexpected token = in JSON at position 12 
+05-01-2023 	 12:23:30 	 cb67990f-390e-41fd-a491-91d3211ae0cf 	 SyntaxError Unexpected token = in JSON at position 16 
+05-01-2023 	 12:29:57 	 3e58aabb-7cab-4fac-8747-bea7a6c18d3a 	 SyntaxError Unexpected token = in JSON at position 12 
